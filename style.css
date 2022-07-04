@@ -105,3 +105,25 @@ h2{
     font-weight: 700;
     line-height: 0;
 }
+.counter{
+    display: flex;
+    justify-content: space-evenly;
+}
+.counter-section{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 200px;
+    width: 85%;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+.my-p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.my-s{
+    font-size: 45px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
