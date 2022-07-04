@@ -6,7 +6,9 @@ body {
 h1 {
     font-size: 60px;
 }
-
+h2{
+    font-size: 35px;
+}
 .skip {
     color: orange;
 }
@@ -49,4 +51,27 @@ h1 {
     border-radius: 500px;
     padding: 20px 40px;
     line-height: 4;
+}
+.about-bg{
+    background-image: url(images/about-bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 100px;
+    display: flex;
+}
+.about-right{
+    padding-left: 700px;
+    padding-top: 100px;
+    text-align: justify;
+}
+.about-text{
+    padding-right: 220px;
+}
+.banner-btn-2{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 500px;
+    padding: 20px 40px;
+    line-height: 8;
 }
