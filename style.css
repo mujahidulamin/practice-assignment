@@ -75,3 +75,33 @@ h2{
     padding: 20px 40px;
     line-height: 8;
 }
+.my-description{
+    margin-top: 80px;
+    text-align: center;
+    padding: 0 350px;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 40%;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.card img{
+    height: 300px;
+    width:100%
+}
+.my-card{
+    display: flex ;
+}
+.my-bg{
+    margin-bottom: 50px;
+}
+.my-header{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 0;
+}
