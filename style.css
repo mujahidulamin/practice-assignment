@@ -114,9 +114,10 @@ h2{
     height: 200px;
     width: 85%;
     margin-left: 100px;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-bottom: 20px;
     padding-top: 10px;
+    margin-top: 100px;
 }
 .my-p{
     font-size: 15px;
@@ -126,4 +127,20 @@ h2{
     font-size: 45px;
     margin-bottom: 0px;
     font-weight: bold;
+}
+
+.footer{
+    background-color: rgb(17, 14, 26);
+    height: 220px;
+    margin-top: 100px;
+}
+.my-section-header{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.footer-p{
+    text-align: center;
+    color: white;
 }
